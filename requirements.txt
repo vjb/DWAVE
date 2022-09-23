@@ -31,7 +31,7 @@ penaltymodel==0.15.4
 penaltymodel-cache==0.3.3
 penaltymodel-mip==0.1.4
 plucky==0.4.3
-protobuf==3.7.0
+protobuf==3.18.3
 pycodestyle==2.5.0
 pylint==2.3.1
 PySocks==1.6.8
